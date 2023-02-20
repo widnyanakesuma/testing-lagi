@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/iseng', function () {
     return view('welcome');
 });
+
+Route::get('/iseng2', function () {
+    return view('welcome');
+});
