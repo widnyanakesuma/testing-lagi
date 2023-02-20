@@ -24,3 +24,7 @@ Route::get('/iseng', function () {
 Route::get('/iseng2', function () {
     return view('welcome');
 });
+
+Route::get('/iseng3', function () {
+    return view('welcome');
+});
